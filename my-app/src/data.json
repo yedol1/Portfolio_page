@@ -1,0 +1,59 @@
+{
+	"posts": [
+		{
+			"id": 1,
+			"thumbnail": "/assets/post-img1.jpg",
+			"title": "가져도댕냥",
+      "summary":"가져도댕냥은 사용하지 않는 반려동물용품을 판매하는 중고 거래 플랫폼입니다.",
+			"mainBg": "/assets/post-background1.jpg",
+			"category": ["프론트엔드"],
+			"profileImg": "/assets/prof.jpg",
+			"contents": [
+				{
+					"type": "p",
+					"text": "Adipisicing elit. Inventore illum nostrum perferendis voluptas, voluptate soluta corrupti dolore quidem. Placeat, eaque! Exercitationem est facilis dolor quas odio cum incidunt repudiandae vel. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore illum nostrum perferendis voluptas, voluptate soluta corrupti dolore quidem. Placeat, eaque! Exercitationem est facilis dolor quas odio cum incidunt repudiandae vel. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore illum nostrum perferendis voluptas, voluptate soluta corrupti dolore quidem. Placeat, eaque! Exercitationem est facilis dolor quas odio cum incidunt repudiandae vel. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore illum nostrum perferendis voluptas, voluptate soluta corrupti dolore quidem. Placeat, eaque! Exercitationem est facilis dolor quas odio cum incidunt repudiandae vel. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore illum nostrum perferendis voluptas, voluptate soluta corrupti dolore quidem. Placeat, eaque! Exercitationem est facilis dolor quas odio cum incidunt repudiandae vel. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore illum nostrum perferendis voluptas, voluptate soluta corrupti dolore quidem. Placeat, eaque! Exercitationem est facilis dolor quas odio cum incidunt repudiandae vel. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore illum nostrum perferendis voluptas, voluptate soluta corrupti dolore quidem. Placeat, eaque! Exercitationem est facilis dolor quas odio cum incidunt repudiandae vel. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore illum nostrum perferendis voluptas, voluptate soluta corrupti dolore quidem. Placeat, eaque! Exercitationem est facilis dolor quas odio cum incidunt repudiandae vel."
+				},
+				{
+					"type": "img",
+					"src": "https://user-images.githubusercontent.com/57481378/206615527-80f4901e-cd0a-4023-afc2-d4ef95275514.png"
+				},
+				{
+					"type": "p",
+					"text": "Inventore illum nostrum perferendis voluptas, voluptate soluta corrupti dolore quidem. Placeat, eaque! Exercitationem est facilis dolor quas odio cum incidunt repudiandae vel. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore illum nostrum perferendis voluptas, voluptate soluta corrupti dolore quidem. Placeat, eaque! Exercitationem est facilis dolor quas odio cum incidunt repudiandae vel. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore illum nostrum perferendis voluptas, voluptate soluta corrupti dolore quidem. Placeat, eaque! Exercitationem est facilis dolor quas odio cum incidunt repudiandae vel. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore illum nostrum perferendis voluptas, voluptate soluta corrupti dolore quidem. Placeat, eaque! Exercitationem est facilis dolor quas odio cum incidunt repudiandae vel."
+				}
+			],
+			"userName": "이광렬",
+			"created": "2022.04.01"
+		},
+		{
+			"id": 2,
+			"thumbnail": "/assets/post-img2.jpg",
+			"title": "SQooL 시연 영상",
+      "summary":"웹에서 실행 가능한 교육목적의 SQL 튜토리얼 사이트",
+			"mainBg": "/assets/post-background2.jpg",
+			"category": ["영상디자인"],
+			"profileImg": "/assets/prof.jpg",
+			"contents": [
+        {
+          "type": "p",
+          "text": "웹에서 실행 가능한 교육목적의 SQL 튜토리얼 사이트"
+        },
+				{
+					"type": "p",
+					"text": "해당 저장소는 SQL을 좀 더 쉽게 개발자가 접하고 학습할 수 있도록 웹페이지를 제작하는데 목표를 두고 있습니다. 비영리 프로젝트이며, 조건없이 사용할 수 있습니다."
+				},
+				{
+					"type": "img",
+					"src": "https://user-images.githubusercontent.com/57481378/206615527-80f4901e-cd0a-4023-afc2-d4ef95275514.png"
+				},
+				{
+					"type": "p",
+					"text": "Link : https://youtu.be/pUMenfZXFrI"
+				}
+			],
+			"userName": "이광렬",
+			"created": "2022.04.02"
+		}
+		
+	]
+}
